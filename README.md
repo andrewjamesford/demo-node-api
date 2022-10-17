@@ -1,2 +1,3 @@
 # demo-node-api
-A demo API app using Nodde
+
+A demo API app using Node
