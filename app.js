@@ -7,7 +7,6 @@ var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
 
 var app = express();
-app.set("port", process.env.PORT | 3000);
 
 app.use(logger("dev"));
 app.use(express.json());
