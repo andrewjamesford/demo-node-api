@@ -1,3 +1,3 @@
 # demo-node-api
 
-A demo API app using Node and a repository pattern
+A demo API app using Node and the repository design pattern
